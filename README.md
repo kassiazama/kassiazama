@@ -1,14 +1,10 @@
 ## Hello! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kassiazama/)](https://www.linkedin.com/in/kassiazama/)
 
+Sou desenvolvedora de software e minhas expertises são Java com framework Spring Boot e JavaScript && TypeScript com framework Angular. 💻❤️🌹
 
-
-<div align="center">
-  <a href="https://github.com/kassiazama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiazama&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
+Criei um repositório para por em prática os estudos de meu roadmap: https://github.com/kassiazama/flower-microservices
+Qualquer dúvida estou à diposição e agradeço de coração caso possa analisar e me sugerir correções/melhorias e etc!
 
 
   
