@@ -9,5 +9,5 @@ Sou apaixonada por desafios e busco soluções criativas para atender às demand
 Sempre pronta para colaborar, compartilhar ideias e criar conexões.
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
